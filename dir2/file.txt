@@ -1,3 +1,0 @@
-Im in the second folder
-EDIT: changed the contents of the file
-Making changes to a few files to test git add -p
