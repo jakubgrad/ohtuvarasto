@@ -1,0 +1,2 @@
+Created this file in the clone of the repository. I had to run:
+git clone git@github.com:jakubgrad/ohtuvarasto.git ohtuvarastoClone
