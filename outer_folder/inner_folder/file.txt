@@ -1,1 +1,2 @@
 I'm inside outer_folder/inner_folder
+EDIT: changed the contenst of this file as well.
