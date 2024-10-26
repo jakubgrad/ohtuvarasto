@@ -78,3 +78,5 @@ class TestVarasto(unittest.TestCase):
 
         self.assertEqual(str(self.varasto), "saldo = 10, vielä tilaa 0")
     
+    def test_breaking_test(self):
+        self.assertEqual(0,1)
