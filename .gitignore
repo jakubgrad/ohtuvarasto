@@ -4,8 +4,6 @@ __pycache__*
 
 .__pytest_cache__*
 
-.coveragerc
-
 .coverage
 
 htmlcov/
